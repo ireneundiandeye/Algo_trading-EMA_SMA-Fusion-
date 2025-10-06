@@ -1,14 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gdTY4KPC)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19441770)
 
 # Algorithmic Trading Case
 
 This is the top-level README for your GitHub repository.
-
-You must include **clear instructions here on how to run your replication package**. Be specific: mention any required credentials, file paths, environment setup steps, or entry points for your analysis.
-
-> If you're looking for the full case description and requirements, see **case/README.md**
-
 ## Repository Structure
 
 ```bash
@@ -125,13 +118,5 @@ The data used for basktesting was downloaded from Binance for BTC, ETH and XRP 2
 | Value @ july 27 | $115,914        |
 | Net Return      | +14.5%(30 days) |
 
-A more up to date Live performance dashboard and trades made can be found here: [https://tradedash.eu.pythonanywhere.com](https://tradedash.eu.pythonanywhere.com)
-The strategy script (strategy_alpaca_trading.py) was added to git action workflow to run automaticaly every 15 minutes.
 
-## Why You Should Invest
 
-- Founder continual research
-- +14.5% return in under 30 days (simulated)
-- No management fees for early investors
-- Full transparency & access to strategy development
-- Designed to handle volatile market phases
